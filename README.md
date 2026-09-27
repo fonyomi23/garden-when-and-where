@@ -4,17 +4,23 @@ An independent photo guessing prototype: guess the month and day, then place a p
 
 ## Play
 
-Open `index.html` locally, or use the GitHub Pages link shown in this repository once Pages is enabled. Keep the files and images folder together. No installation or build step is needed.
+Play at https://fonyomi23.github.io/garden-when-and-where/ or open `index.html` locally. Keep the files and images folder together. No installation or build step is needed.
 
-## Photo reviews
+## Public edition
 
-The September 18 reviews are included automatically: 123 approved capture dates, 119 approved landmark pins, and 7 excluded photos. There are 123 playable photographs and 120 map reference rounds, including one original source reference. Four unapproved draft pins remain in the review desk and are not used as scoring coordinates.
+The public game has one curated collection of 119 photographs, each with an approved capture date and landmark pin. It does not load browser review overrides or expose a review desk. Photographer credits and license links appear after each reveal.
 
-Open `review.html` to continue reviewing. New edits stay in your browser; export them as JSON for a backup or to incorporate into a later release. When using local files, import later review exports in the game too. Reset local changes returns to the included defaults.
+The original local working copy retains the review desk, excluded photographs, draft pins, and review exports. To refresh this public collection after incorporating more reviews there, run:
+
+```sh
+node scripts/build-public-catalog.cjs /path/to/working-copy/dist
+```
+
+Then run `node scripts/verify-public.cjs` and test the game before publishing.
 
 ## Source records and attribution
 
-Photographer credits and available license links appear in the game. Original source records are in `sources.json`, capture data in `data.js`, and saved review decisions in `review-defaults.js`. The collection contains 100 photos with declared open licenses and 30 official Garden photos without an established open license. Inclusion in this repository does not grant additional reuse rights. Follow each photograph's source and license terms.
+Photographer credits and available license links appear in the game. Original source records are in `sources.json`, the approved public answers in `data.js`. The source archive includes both photos with declared open licenses and official Garden photos without an established open license. Inclusion in this repository does not grant additional reuse rights. Follow each photograph's source and license terms.
 
 Map data: © OpenStreetMap contributors, available under ODbL: https://www.openstreetmap.org/copyright. Landmark coordinates and distance results are approximate, not surveyed measurements.
 

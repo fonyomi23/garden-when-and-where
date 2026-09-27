@@ -1,9 +1,9 @@
-Open index.html to play, or review.html to review photos.
+WHEN & WHERE — PUBLIC EDITION
 
-Your September 18 photo reviews are included automatically in this copy: 123 approved dates, 119 approved landmark pins, and 7 exclusions. No import is needed for those reviews, even in a new browser. Keep the whole Garden_Game folder together.
+Open index.html to play. The public game includes 119 photographs with approved dates and landmark pins. All you need to do is guess the month and day, place your pin, and reveal the answer.
 
-New reviews save in your browser. Export them for a portable backup and send the new JSON back to incorporate another permanent update. When opening local files, import new exports into the game via About the photos to transfer later edits reliably. Reset local changes returns a photo to the reviews saved with this copy.
+Play online: https://fonyomi23.github.io/garden-when-and-where/
 
-130 photos in the catalog; 123 playable; 120 playable map references (119 reviewed pins and one original source reference). Four unapproved draft pins are retained in the photo desk; these draft coordinates are not used for scoring. No year guessing.
+Photo credits and licenses appear after each reveal. Map data is © OpenStreetMap contributors (ODbL); distances are approximate. This is an independent Garden game.
 
-Original source records remain in sources.json. The saved review layer is review-defaults.js. Map geometry is OpenStreetMap (ODbL), approximate, not surveyed.
+Review tools and exported reviews remain in the original local working copy. This public edition does not read or write browser review data.

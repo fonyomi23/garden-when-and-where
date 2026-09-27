@@ -5,31 +5,18 @@ window.GARDEN_PHOTOS = [
     "month": 9,
     "day": 14,
     "location": "Sand and Stone Garden",
+    "landmark": "Sand and Stone Garden",
+    "point": {
+      "lat": 45.518432689456105,
+      "lon": -122.70762675757672,
+      "name": "Sand and Stone Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Sand and Stone Garden",
-    "openLicense": false,
-    "note": "The planting is still largely green. Early autumn can resemble summer, so look for the first changing leaves among the mature canopy.",
-    "options": [
-      "Sand and Stone Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken September 14, 2026",
-    "locationEvidence": "Gallery data-caption: Sand and Stone Garden",
-    "landmark": "Sand and Stone Garden",
-    "pinPrompt": "Pin the center of the walled gravel garden.",
-    "point": {
-      "lat": 45.5183782,
-      "lon": -122.70723676,
-      "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": false
   },
   {
     "id": "commons_163154368",
@@ -37,33 +24,20 @@ window.GARDEN_PHOTOS = [
     "month": 7,
     "day": 11,
     "location": "Sand and Stone Garden",
+    "landmark": "Sand and Stone Garden",
+    "point": {
+      "lat": 45.51843235641007,
+      "lon": -122.70762257937439,
+      "name": "Sand and Stone Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "WLernerPJG",
     "source": "https://commons.wikimedia.org/wiki/File:Sand_and_Stone_Garden.jpg",
-    "confidence": "exif",
     "caption": "Sand and Stone Garden of Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "note": "The canopy is fully in leaf, casting patches of shade across the gravel. The enclosing walls and rock arrangement identify the Sand and Stone Garden.",
-    "options": [
-      "Sand and Stone Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level.",
-    "locationEvidence": "explicit_source_caption",
-    "landmark": "Overlook of walled gravel and standing stone",
-    "pinPrompt": "Pin the center of the walled gravel garden.",
-    "point": {
-      "lat": 45.5183782,
-      "lon": -122.70723676,
-      "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": true
   },
   {
     "id": "official-010",
@@ -71,22 +45,18 @@ window.GARDEN_PHOTOS = [
     "month": 9,
     "day": 14,
     "location": "Strolling Pond Garden",
+    "landmark": "Sapporo Pagoda",
+    "point": {
+      "lat": 45.518465838446424,
+      "lon": -122.70820843780169,
+      "name": "Sapporo Pagoda",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Strolling Pond Garden",
-    "openLicense": false,
-    "note": "The planting is still largely green. Early autumn can resemble summer, so look for the first changing leaves among the mature canopy.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken September 14, 2026",
-    "locationEvidence": "Gallery data-caption: Strolling Pond Garden",
-    "landmark": "Strolling Pond Garden"
+    "openLicense": false
   },
   {
     "id": "official-024",
@@ -94,22 +64,18 @@ window.GARDEN_PHOTOS = [
     "month": 9,
     "day": 14,
     "location": "Entry Garden",
+    "landmark": "Antique Gate",
+    "point": {
+      "lat": 45.5193984975832,
+      "lon": -122.70764504597607,
+      "name": "Antique Gate",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Entry Garden",
-    "openLicense": false,
-    "note": "The planting is still largely green. Early autumn can resemble summer, so look for the first changing leaves among the mature canopy.",
-    "options": [
-      "Entry Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken September 14, 2026",
-    "locationEvidence": "Gallery data-caption: Entry Garden",
-    "landmark": "Entry Garden"
+    "openLicense": false
   },
   {
     "id": "official-050",
@@ -117,31 +83,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 5,
     "location": "Sand and Stone Garden",
+    "landmark": "Sand and Stone Garden",
+    "point": {
+      "lat": 45.51842911336225,
+      "lon": -122.7076213535673,
+      "name": "Sand and Stone Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Sand and Stone Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Sand and Stone Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 5, 2025",
-    "locationEvidence": "Gallery data-caption: Sand and Stone Garden.",
-    "landmark": "Sand and Stone Garden",
-    "pinPrompt": "Pin the center of the walled gravel garden.",
-    "point": {
-      "lat": 45.5183782,
-      "lon": -122.70723676,
-      "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": false
   },
   {
     "id": "official-037",
@@ -149,22 +102,18 @@ window.GARDEN_PHOTOS = [
     "month": 10,
     "day": 29,
     "location": "Flat Garden",
+    "landmark": "Flat Garden",
+    "point": {
+      "lat": 45.51866334750966,
+      "lon": -122.70779580751753,
+      "name": "Flat Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Flat Garden",
-    "openLicense": false,
-    "note": "The maple is orange, while the shrubs and conifers still hold their green. The pale gravel makes the autumn color especially easy to notice.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken October 29, 2025",
-    "locationEvidence": "Gallery data-caption: Flat Garden.",
-    "landmark": "Flat Garden"
+    "openLicense": false
   },
   {
     "id": "commons_163154493",
@@ -172,24 +121,20 @@ window.GARDEN_PHOTOS = [
     "month": 1,
     "day": 31,
     "location": "Tea Garden",
+    "landmark": "Kashintei Tea House approach",
+    "point": {
+      "lat": 45.51846154356594,
+      "lon": -122.70925331060084,
+      "name": "Kashintei Tea House approach",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "WLernerPJG",
     "source": "https://commons.wikimedia.org/wiki/File:The_Tea_Garden_of_Portland_Japanese_Garden.jpg",
-    "confidence": "exif",
     "caption": "The Tea Garden of Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "note": "Bare branches above evergreen shrubs make a useful winter clue. The stepping-stone path leads toward the Tea House.",
-    "options": [
-      "Tea Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level.",
-    "locationEvidence": "explicit_source_caption",
-    "landmark": "Kashintei Tea House approach"
+    "openLicense": true
   },
   {
     "id": "commons_163154343",
@@ -197,24 +142,20 @@ window.GARDEN_PHOTOS = [
     "month": 5,
     "day": 9,
     "location": "Natural Garden",
+    "landmark": "Stone stairs with azaleas",
+    "point": {
+      "lat": 45.51823064015338,
+      "lon": -122.70740119066335,
+      "name": "Stone stairs with azaleas",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "WLernerPJG",
     "source": "https://commons.wikimedia.org/wiki/File:Natural_Garden_in_Portland_Japanese_Garden..jpg",
-    "confidence": "exif",
     "caption": "Natural Garden in Portland Japanese Garden.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "note": "Flowering shrubs and a fresh green canopy frame the steps of the Natural Garden. Here, the flowers offer a stronger seasonal clue than the moss.",
-    "options": [
-      "Natural Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level.",
-    "locationEvidence": "explicit_source_caption",
-    "landmark": "Stone stairs with azaleas"
+    "openLicense": true
   },
   {
     "id": "commons_622717",
@@ -222,24 +163,20 @@ window.GARDEN_PHOTOS = [
     "month": 2,
     "day": 15,
     "location": "Strolling Pond Garden",
+    "landmark": "Upper pond and laceleaf maple",
+    "point": {
+      "lat": 45.5188057250345,
+      "lon": -122.70879837415758,
+      "name": "Upper pond and laceleaf maple",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "EncMstr",
     "source": "https://commons.wikimedia.org/wiki/File:Pdx_washpark_japanesegarden_rightside.jpg",
-    "confidence": "exif",
     "caption": "w:Portland Japanese Garden Winter view",
-    "openLicense": true,
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "note": "Bare deciduous branches and winter-brown grasses sit among the evergreen planting. The Moon Bridge curves across the upper pond.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level.",
-    "locationEvidence": "visual_landmark_match",
-    "landmark": "Upper pond and laceleaf maple"
+    "openLicense": true
   },
   {
     "id": "official-047",
@@ -247,22 +184,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 1,
     "location": "Natural Garden",
+    "landmark": "Moon Gate",
+    "point": {
+      "lat": 45.51815748803859,
+      "lon": -122.70821131479579,
+      "name": "Moon Gate",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Natural Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Natural Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 1, 2024",
-    "locationEvidence": "Gallery data-caption: Natural Garden.",
-    "landmark": "Natural Garden"
+    "openLicense": false
   },
   {
     "id": "commons_163154391",
@@ -270,24 +203,20 @@ window.GARDEN_PHOTOS = [
     "month": 4,
     "day": 19,
     "location": "Strolling Pond Garden",
+    "landmark": "Upper Pond and Moon Bridge",
+    "point": {
+      "lat": 45.51878241030227,
+      "lon": -122.7089228411676,
+      "name": "Upper Pond and Moon Bridge",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "WLernerPJG",
     "source": "https://commons.wikimedia.org/wiki/File:Strolling_Pond_Garden_of_Portland_Japanese_Garden.jpg",
-    "confidence": "exif",
     "caption": "Strolling Pond Garden of Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "note": "The deciduous plants are in leaf in this spring photograph. Green alone is not enough to distinguish spring from summer: this is a harder seasonal read.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level.",
-    "locationEvidence": "explicit_source_caption",
-    "landmark": "Upper Pond and Moon Bridge"
+    "openLicense": true
   },
   {
     "id": "commons_163154684",
@@ -295,24 +224,20 @@ window.GARDEN_PHOTOS = [
     "month": 5,
     "day": 3,
     "location": "Tsubo-Niwa",
+    "landmark": "Courtyard maple",
+    "point": {
+      "lat": 45.519097597348015,
+      "lon": -122.70874080656316,
+      "name": "Courtyard maple",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "WLernerPJG",
     "source": "https://commons.wikimedia.org/wiki/File:Tsubo-Niwa_at_Portland_Japanese_Garden.jpg",
-    "confidence": "exif",
     "caption": "Tsubo-Niwa at Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "note": "Red maple foliage is not always an autumn clue. This photograph was taken in spring, in the small courtyard garden called Tsubo-Niwa.",
-    "options": [
-      "Tsubo-Niwa",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level.",
-    "locationEvidence": "explicit_source_caption",
-    "landmark": "Courtyard maple beside slatted facade"
+    "openLicense": true
   },
   {
     "id": "commons_12338096",
@@ -320,24 +245,20 @@ window.GARDEN_PHOTOS = [
     "month": 12,
     "day": 3,
     "location": "Flat Garden",
+    "landmark": "Circle and gourd islands",
+    "point": {
+      "lat": 45.51866261115818,
+      "lon": -122.70786468342222,
+      "name": "Circle and gourd islands",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Melissa Wilmot",
     "source": "https://commons.wikimedia.org/wiki/File:Flat_Garden.jpg",
-    "confidence": "exif",
     "caption": "Flat Garden at the Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "note": "The weeping tree is bare, though much of the surrounding planting stays green. Gravel and the shaped moss islands identify the Flat Garden.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level.",
-    "locationEvidence": "explicit_source_caption",
-    "landmark": "Circle and gourd islands"
+    "openLicense": true
   },
   {
     "id": "flickr_14800652882",
@@ -345,33 +266,20 @@ window.GARDEN_PHOTOS = [
     "month": 7,
     "day": 19,
     "location": "Strolling Pond Garden",
+    "landmark": "Upper Pond",
+    "point": {
+      "lat": 45.51837694438296,
+      "lon": -122.70888463795657,
+      "name": "Upper Pond",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Paul VanDerWerf",
     "source": "https://www.flickr.com/photos/pavdw/14800652882/",
-    "confidence": "flickr",
     "caption": "Upper Pool at the  Portland Japanese Garden.   The Portland Japanese Garden is a traditional Japanese garden occupying 5.5 acres (22,000 m²), located within Washington Park in the west hills of Portland, Oregon, USA.  Three of the essential elements used to create the garden are stone, the \"bones\" of the landscape; water, the life-giving force; and plants, the tapestry of the four seasons. Japanese garden designers feel that good stone composition is one of the most important elements in creating a well-designed garden. Secondary elements include pagodas, stone lanterns, water basins, arbors, and bridges. Japanese gardens are asymmetrical in design and reflect nature in idealized form. Traditionally, human scale is maintained throughout so that one always feels part of the environment and not overpowered by it. As Professor Tono wanted to incorporate native trees in the Portland Japanese Garden so that it would blend naturally with its environment, some of the plantings at the Garden are on a larger scale. (Wikipedia)",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-    "note": "Look at the fullness of the canopy and the state of the flowers and leaves. Green scenes can be difficult to place precisely within spring and summer.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Public Flickr Taken on date and embedded photo-stats-models dateTaken; datePosted is separately recorded and not used as capture date.",
-    "locationEvidence": "explicit_source_caption_plus_official_area_definition",
-    "landmark": "Upper Pond",
-    "pinPrompt": "Pin the stone pagoda shown.",
-    "point": {
-      "lat": 45.5182907,
-      "lon": -122.7085868,
-      "name": "Sapporo Pagoda",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/node/9696789132",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": true
   },
   {
     "id": "commons_4920472",
@@ -379,24 +287,20 @@ window.GARDEN_PHOTOS = [
     "month": 1,
     "day": 12,
     "location": "Strolling Pond Garden",
+    "landmark": "Upper pond ",
+    "point": {
+      "lat": 45.5187888963979,
+      "lon": -122.7088757813584,
+      "name": "Upper pond ",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Adonelson",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-1.jpg",
-    "confidence": "exif",
     "caption": "Japanese Garden, Portland, Oregon, winter",
-    "openLicense": true,
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "note": "Bare maple branches spread above evergreen shrubs. The upper pond and Moon Bridge place this winter view in the Strolling Pond Garden.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level. Ambiguous summary 1/12/2008 resolved as January 12 by EXIF 2008:01:12.",
-    "locationEvidence": "visual_landmark_match",
-    "landmark": "Upper pond and Moon Bridge"
+    "openLicense": true
   },
   {
     "id": "official-001",
@@ -404,22 +308,18 @@ window.GARDEN_PHOTOS = [
     "month": 9,
     "day": 14,
     "location": "Entry Garden",
+    "landmark": "Entry Garden",
+    "point": {
+      "lat": 45.519046953560405,
+      "lon": -122.70814451545805,
+      "name": "Entry Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Entry Garden",
-    "openLicense": false,
-    "note": "The planting is still largely green. Early autumn can resemble summer, so look for the first changing leaves among the mature canopy.",
-    "options": [
-      "Entry Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken September 14, 2026",
-    "locationEvidence": "Gallery data-caption: Entry Garden",
-    "landmark": "Entry Garden"
+    "openLicense": false
   },
   {
     "id": "official-002",
@@ -427,22 +327,18 @@ window.GARDEN_PHOTOS = [
     "month": 9,
     "day": 14,
     "location": "Flat Garden",
+    "landmark": "Flat Garden",
+    "point": {
+      "lat": 45.51889330427282,
+      "lon": -122.70782200187315,
+      "name": "Flat Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Flat Garden",
-    "openLicense": false,
-    "note": "The planting is still largely green. Early autumn can resemble summer, so look for the first changing leaves among the mature canopy.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken September 14, 2026",
-    "locationEvidence": "Gallery data-caption: Flat Garden",
-    "landmark": "Flat Garden"
+    "openLicense": false
   },
   {
     "id": "official-015",
@@ -450,45 +346,18 @@ window.GARDEN_PHOTOS = [
     "month": 9,
     "day": 14,
     "location": "Tea Garden",
+    "landmark": "Tea Garden",
+    "point": {
+      "lat": 45.518382957188194,
+      "lon": -122.70929158891924,
+      "name": "Tea Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Tea Garden",
-    "openLicense": false,
-    "note": "The planting is still largely green. Early autumn can resemble summer, so look for the first changing leaves among the mature canopy.",
-    "options": [
-      "Tea Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken September 14, 2026",
-    "locationEvidence": "Gallery data-caption: Tea Garden",
-    "landmark": "Tea Garden"
-  },
-  {
-    "id": "official-025",
-    "image": "images/official-025.jpg",
-    "month": 11,
-    "day": 7,
-    "location": "Entry Garden",
-    "credit": "Portland Japanese Garden",
-    "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
-    "caption": "Entry Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Entry Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 7, 2025",
-    "locationEvidence": "Gallery data-caption: Entry Garden.",
-    "landmark": "Entry Garden"
+    "openLicense": false
   },
   {
     "id": "official-026",
@@ -496,22 +365,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 6,
     "location": "Entry Garden",
+    "landmark": "Entry Garden",
+    "point": {
+      "lat": 45.51939287051856,
+      "lon": -122.70736293741338,
+      "name": "Entry Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Entry Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Entry Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 6, 2024",
-    "locationEvidence": "Gallery data-caption: Entry Garden.",
-    "landmark": "Entry Garden"
+    "openLicense": false
   },
   {
     "id": "official-027",
@@ -519,22 +384,18 @@ window.GARDEN_PHOTOS = [
     "month": 10,
     "day": 25,
     "location": "Entry Garden",
+    "landmark": "Entry Garden",
+    "point": {
+      "lat": 45.519076245968165,
+      "lon": -122.70792132534524,
+      "name": "Entry Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Entry Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Entry Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken October 25, 2024",
-    "locationEvidence": "Gallery data-caption: Entry Garden.",
-    "landmark": "Entry Garden"
+    "openLicense": false
   },
   {
     "id": "official-028",
@@ -542,45 +403,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 8,
     "location": "Entry Garden",
+    "landmark": "Entry Garden",
+    "point": {
+      "lat": 45.51909715911871,
+      "lon": -122.70797181277273,
+      "name": "Entry Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Entry Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Entry Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 8, 2024",
-    "locationEvidence": "Gallery data-caption: Entry Garden.",
-    "landmark": "Entry Garden"
-  },
-  {
-    "id": "official-029",
-    "image": "images/official-029.jpg",
-    "month": 11,
-    "day": 6,
-    "location": "Entry Garden",
-    "credit": "Portland Japanese Garden",
-    "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
-    "caption": "Entry Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Entry Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 6, 2024",
-    "locationEvidence": "Gallery data-caption: Entry Garden.",
-    "landmark": "Entry Garden"
+    "openLicense": false
   },
   {
     "id": "official-030",
@@ -588,22 +422,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 7,
     "location": "Entry Garden",
+    "landmark": "Entry Garden",
+    "point": {
+      "lat": 45.51908977906823,
+      "lon": -122.70788579907048,
+      "name": "Entry Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Entry Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Entry Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 7, 2023",
-    "locationEvidence": "Gallery data-caption: Entry Garden.",
-    "landmark": "Entry Garden"
+    "openLicense": false
   },
   {
     "id": "official-031",
@@ -611,22 +441,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 7,
     "location": "Strolling Pond Garden",
+    "landmark": "Lower Pond",
+    "point": {
+      "lat": 45.51797335419761,
+      "lon": -122.70891896329684,
+      "name": "Lower Pond",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Strolling Pond Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 7, 2025",
-    "locationEvidence": "Gallery data-caption: Strolling Pond Garden.",
-    "landmark": "Strolling Pond Garden"
+    "openLicense": false
   },
   {
     "id": "official-032",
@@ -634,22 +460,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 3,
     "location": "Strolling Pond Garden",
+    "landmark": "Moon Bridge",
+    "point": {
+      "lat": 45.51838506071631,
+      "lon": -122.70915884075882,
+      "name": "Moon Bridge",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Strolling Pond Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 3, 2025",
-    "locationEvidence": "Gallery data-caption: Strolling Pond Garden.",
-    "landmark": "Strolling Pond Garden"
+    "openLicense": false
   },
   {
     "id": "official-033",
@@ -657,22 +479,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 7,
     "location": "Tea Garden",
+    "landmark": "Tea House",
+    "point": {
+      "lat": 45.51869739038622,
+      "lon": -122.70911330708823,
+      "name": "Tea House",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Tea House",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Tea Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 7, 2025",
-    "locationEvidence": "Gallery data-caption: Tea House.",
-    "landmark": "Tea House"
+    "openLicense": false
   },
   {
     "id": "official-034",
@@ -680,22 +498,18 @@ window.GARDEN_PHOTOS = [
     "month": 10,
     "day": 25,
     "location": "Strolling Pond Garden",
+    "landmark": "Moon Bridge",
+    "point": {
+      "lat": 45.5185024057214,
+      "lon": -122.70913534840788,
+      "name": "Moon Bridge",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Roman Johnston",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Moon Bridge",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken October 25, 2013",
-    "locationEvidence": "Gallery data-caption: Moon Bridge.",
-    "landmark": "Moon Bridge"
+    "openLicense": false
   },
   {
     "id": "official-035",
@@ -703,22 +517,18 @@ window.GARDEN_PHOTOS = [
     "month": 10,
     "day": 19,
     "location": "Strolling Pond Garden",
+    "landmark": "Cherry Hill",
+    "point": {
+      "lat": 45.518070136663034,
+      "lon": -122.70847776195438,
+      "name": "Cherry Hill",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": null,
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Hill overlooking Heavenly Falls",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken October 19, 2021",
-    "locationEvidence": "Gallery data-caption: Hill overlooking Heavenly Falls.",
-    "landmark": "Hill overlooking Heavenly Falls"
+    "openLicense": false
   },
   {
     "id": "official-036",
@@ -726,22 +536,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 8,
     "location": "Strolling Pond Garden",
+    "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.51799344344687,
+      "lon": -122.70893827764128,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Heavenly Falls",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 8, 2024",
-    "locationEvidence": "Gallery data-caption: Heavenly Falls.",
-    "landmark": "Heavenly Falls"
+    "openLicense": false
   },
   {
     "id": "official-038",
@@ -749,22 +555,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 3,
     "location": "Flat Garden",
+    "landmark": "Flat Garden",
+    "point": {
+      "lat": 45.5184087961816,
+      "lon": -122.70801864745567,
+      "name": "Flat Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Flat Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 3, 2025",
-    "locationEvidence": "Gallery data-caption: Flat Garden.",
-    "landmark": "Flat Garden"
+    "openLicense": false
   },
   {
     "id": "official-039",
@@ -772,22 +574,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 5,
     "location": "Flat Garden",
+    "landmark": "Weeping Cherry",
+    "point": {
+      "lat": 45.51851411571345,
+      "lon": -122.7077026136684,
+      "name": "Weeping Cherry",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Flat Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 5, 2025",
-    "locationEvidence": "Gallery data-caption: Flat Garden.",
-    "landmark": "Flat Garden"
+    "openLicense": false
   },
   {
     "id": "official-040",
@@ -795,22 +593,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 5,
     "location": "Flat Garden",
+    "landmark": "Flat Garden",
+    "point": {
+      "lat": 45.518793419072544,
+      "lon": -122.70794706944835,
+      "name": "Flat Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Flat Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 5, 2025",
-    "locationEvidence": "Gallery data-caption: Flat Garden.",
-    "landmark": "Flat Garden"
+    "openLicense": false
   },
   {
     "id": "official-041",
@@ -818,22 +612,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 3,
     "location": "Flat Garden",
+    "landmark": "Flat Garden",
+    "point": {
+      "lat": 45.518762601541724,
+      "lon": -122.70782322787608,
+      "name": "Flat Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Flat Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 3, 2025",
-    "locationEvidence": "Gallery data-caption: Flat Garden.",
-    "landmark": "Flat Garden"
+    "openLicense": false
   },
   {
     "id": "official-042",
@@ -841,22 +631,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 7,
     "location": "Flat Garden",
+    "landmark": "Weeping Cherry",
+    "point": {
+      "lat": 45.51849318499805,
+      "lon": -122.70764469580142,
+      "name": "Weeping Cherry",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Flat Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 7, 2025",
-    "locationEvidence": "Gallery data-caption: Flat Garden.",
-    "landmark": "Flat Garden"
+    "openLicense": false
   },
   {
     "id": "official-044",
@@ -864,22 +650,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 1,
     "location": "Strolling Pond Garden",
+    "landmark": "\"The Tree.\"",
+    "point": {
+      "lat": 45.5187703322717,
+      "lon": -122.7086977247026,
+      "name": "\"The Tree.\"",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "\"The Tree.\"",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 1, 2024",
-    "locationEvidence": "Gallery data-caption: \"The Tree.\"",
-    "landmark": "\"The Tree.\""
+    "openLicense": false
   },
   {
     "id": "official-045",
@@ -887,22 +669,18 @@ window.GARDEN_PHOTOS = [
     "month": 10,
     "day": 31,
     "location": "Strolling Pond Garden",
+    "landmark": "\"The Tree.\"",
+    "point": {
+      "lat": 45.51876750995696,
+      "lon": -122.70870890796449,
+      "name": "\"The Tree.\"",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Hunter Chesnut",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "\"The Tree.\"",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken October 31, 2023",
-    "locationEvidence": "Gallery data-caption: \"The Tree.\"",
-    "landmark": "\"The Tree.\""
+    "openLicense": false
   },
   {
     "id": "official-046",
@@ -910,22 +688,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 8,
     "location": "Strolling Pond Garden",
+    "landmark": "\"The Tree.\"",
+    "point": {
+      "lat": 45.51878572347226,
+      "lon": -122.70872234288066,
+      "name": "\"The Tree.\"",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "\"The Tree.\"",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 8, 2022",
-    "locationEvidence": "Gallery data-caption: \"The Tree.\"",
-    "landmark": "\"The Tree.\""
+    "openLicense": false
   },
   {
     "id": "official-048",
@@ -933,22 +707,18 @@ window.GARDEN_PHOTOS = [
     "month": 11,
     "day": 7,
     "location": "Natural Garden",
+    "landmark": "Natural Garden",
+    "point": {
+      "lat": 45.51817186253618,
+      "lon": -122.7076605825276,
+      "name": "Natural Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Portland Japanese Garden",
     "source": "https://japanesegarden.org/seasonal-trackers/fall-colors-tracker-2026/",
-    "confidence": "explicit",
     "caption": "Natural Garden",
-    "openLicense": false,
-    "note": "Look at how much foliage remains, and the mix of green, gold and red. Those details help narrow the season, even when an exact day is uncertain.",
-    "options": [
-      "Natural Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Photo taken November 7, 2023",
-    "locationEvidence": "Gallery data-caption: Natural Garden.",
-    "landmark": "Natural Garden"
+    "openLicense": false
   },
   {
     "id": "commons_160697457",
@@ -956,24 +726,20 @@ window.GARDEN_PHOTOS = [
     "month": 1,
     "day": 27,
     "location": "Flat Garden",
+    "landmark": "Circle and gourd islands from Pavilion",
+    "point": {
+      "lat": 45.518780534568315,
+      "lon": -122.70782255239939,
+      "name": "Circle and gourd islands from Pavilion",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "stu_spivack",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-_4321502828.jpg",
-    "confidence": "exif",
     "caption": "Japanese Garden, Portland",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "note": "The deciduous branches are an important clue here: evergreen planting can keep a winter garden looking green.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level. Several photos show daylight despite camera clock near 18:00; local clock/timezone not verified.",
-    "locationEvidence": "visual_landmark_match",
-    "landmark": "Circle and gourd islands from Pavilion"
+    "openLicense": true
   },
   {
     "id": "commons_160697452",
@@ -981,33 +747,20 @@ window.GARDEN_PHOTOS = [
     "month": 1,
     "day": 27,
     "location": "Sand and Stone Garden",
+    "landmark": "Sand and Stone Garden",
+    "point": {
+      "lat": 45.518418262401184,
+      "lon": -122.70762105333368,
+      "name": "Sand and Stone Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "stu_spivack",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-_4321511718.jpg",
-    "confidence": "exif",
     "caption": "Japanese Garden, Portland",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "note": "The deciduous branches are an important clue here: evergreen planting can keep a winter garden looking green.",
-    "options": [
-      "Sand and Stone Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level. Several photos show daylight despite camera clock near 18:00; local clock/timezone not verified.",
-    "locationEvidence": "visual_landmark_match",
-    "landmark": "Overlook of walled gravel and standing stone",
-    "pinPrompt": "Pin the center of the walled gravel garden.",
-    "point": {
-      "lat": 45.5183782,
-      "lon": -122.70723676,
-      "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": true
   },
   {
     "id": "commons_160697480",
@@ -1015,24 +768,20 @@ window.GARDEN_PHOTOS = [
     "month": 1,
     "day": 27,
     "location": "Strolling Pond Garden",
+    "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.518001419535864,
+      "lon": -122.7087124355627,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "stu_spivack",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-_4321435512.jpg",
-    "confidence": "exif",
     "caption": "Japanese Garden, Portland",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "note": "The deciduous branches are an important clue here: evergreen planting can keep a winter garden looking green.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level. Several photos show daylight despite camera clock near 18:00; local clock/timezone not verified.",
-    "locationEvidence": "visual_landmark_match",
-    "landmark": "Heavenly Falls"
+    "openLicense": true
   },
   {
     "id": "commons_73618820",
@@ -1040,24 +789,20 @@ window.GARDEN_PHOTOS = [
     "month": 7,
     "day": 17,
     "location": "Flat Garden",
+    "landmark": "Gourd island and pruned pines",
+    "point": {
+      "lat": 45.51865970129363,
+      "lon": -122.70779515710926,
+      "name": "Gourd island and pruned pines",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "\nIlya Grigorik",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Gardens_Portland_(166780009).jpeg",
-    "confidence": "exif",
     "caption": "\n500px provided description: 5.5 acres of beautifully landscaped gardens.. a must visit park in Portland and a great place to unwind. [#park ,#japan ,#green ,#garden ,#oregon ,#portland ,#japanese garden ,#washington park]",
-    "openLicense": true,
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "note": "Look at the fullness of the canopy and the state of the flowers and leaves. Green scenes can be difficult to place precisely within spring and summer.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level. Source import UTC time differs from camera wall-clock time; both give same calendar day; no hour claim.",
-    "locationEvidence": "visual_landmark_match",
-    "landmark": "Gourd island and pruned pines"
+    "openLicense": true
   },
   {
     "id": "commons_2498081",
@@ -1065,24 +810,20 @@ window.GARDEN_PHOTOS = [
     "month": 6,
     "day": 6,
     "location": "Flat Garden",
+    "landmark": "Circle and gourd islands from Pavilion",
+    "point": {
+      "lat": 45.51876349556518,
+      "lon": -122.70782753102887,
+      "name": "Circle and gourd islands from Pavilion",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Laurascudder",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_garden_dry_garden.jpg",
-    "confidence": "exif",
     "caption": "Dry garden at Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "note": "Look at the fullness of the canopy and the state of the flowers and leaves. Green scenes can be difficult to place precisely within spring and summer.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons summary date absent; date is from camera EXIF only.",
-    "locationEvidence": "commons_area_category_and_visual_match",
-    "landmark": "Circle and gourd islands from Pavilion"
+    "openLicense": true
   },
   {
     "id": "commons_11094021",
@@ -1090,24 +831,20 @@ window.GARDEN_PHOTOS = [
     "month": 7,
     "day": 31,
     "location": "Flat Garden",
+    "landmark": "Close view of circle and gourd islands",
+    "point": {
+      "lat": 45.51867198969073,
+      "lon": -122.70784554426301,
+      "name": "Close view of circle and gourd islands",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Heather from Seattle, WA",
     "source": "https://commons.wikimedia.org/wiki/File:Rock_garden,_Portland_Japanese_Garden.jpg",
-    "confidence": "exif",
     "caption": "One of the Zen rock gardens in the Portland Japanese Garden.",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "note": "This is a difficult close-up: the dry-looking moss is a clue, but it cannot establish an exact day. The moss islands sit within the Flat Garden’s raked gravel.",
-    "options": [
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level.",
-    "locationEvidence": "commons_area_category_and_visual_match",
-    "landmark": "Close view of circle and gourd islands"
+    "openLicense": true
   },
   {
     "id": "commons_2498031",
@@ -1115,33 +852,20 @@ window.GARDEN_PHOTOS = [
     "month": 6,
     "day": 6,
     "location": "Sand and Stone Garden",
-    "credit": "Laurascudder",
-    "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_gardens_zen_garden.jpg",
-    "confidence": "exif",
-    "caption": "Dry zen garden at Portland Japanese Garden",
-    "openLicense": true,
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "note": "Look at the fullness of the canopy and the state of the flowers and leaves. Green scenes can be difficult to place precisely within spring and summer.",
-    "options": [
-      "Sand and Stone Garden",
-      "Flat Garden",
-      "Strolling Pond Garden",
-      "Natural Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons summary date absent; date is from camera EXIF only.",
-    "locationEvidence": "commons_area_category_and_visual_match",
-    "landmark": "Walled gravel and standing stone",
-    "pinPrompt": "Pin the center of the walled gravel garden.",
+    "landmark": "Sand and Stone Garden",
     "point": {
       "lat": 45.5183782,
       "lon": -122.70723676,
       "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
+    "credit": "Laurascudder",
+    "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_gardens_zen_garden.jpg",
+    "caption": "Dry zen garden at Portland Japanese Garden",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "openLicense": true
   },
   {
     "id": "commons_76252186",
@@ -1149,24 +873,20 @@ window.GARDEN_PHOTOS = [
     "month": 7,
     "day": 21,
     "location": "Strolling Pond Garden",
+    "landmark": "Heavenly Falls and Lower Pond reflection",
+    "point": {
+      "lat": 45.517995301615976,
+      "lon": -122.70874781172066,
+      "name": "Heavenly Falls and Lower Pond reflection",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "\nShitij Bhargava",
     "source": "https://commons.wikimedia.org/wiki/File:Reflect_In_The_Garden_(119298783).jpeg",
-    "confidence": "exif",
     "caption": "\n500px provided description: Taken in the Portland Japanese Garden [#lake ,#water ,#reflection ,#beautiful ,#green ,#garden ,#waterfall ,#long exposure ,#japanese]",
-    "openLicense": true,
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "note": "Look at the fullness of the canopy and the state of the flowers and leaves. Green scenes can be difficult to place precisely within spring and summer.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "EXIF DateTimeOriginal exposed by Wikimedia API; Commons source-page date agrees at calendar-day level. Source import UTC time differs from camera wall-clock time; both give same calendar day; no hour claim.",
-    "locationEvidence": "visual_landmark_match",
-    "landmark": "Heavenly Falls and Lower Pond reflection"
+    "openLicense": true
   },
   {
     "id": "flickr_51394644119",
@@ -1174,2263 +894,1552 @@ window.GARDEN_PHOTOS = [
     "month": 8,
     "day": 8,
     "location": "Strolling Pond Garden",
+    "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.51799887770983,
+      "lon": -122.70873875496672,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Brandon Olafsson",
     "source": "https://www.flickr.com/photos/168888063@N04/51394644119/",
-    "confidence": "flickr",
     "caption": "A lush forest scene surrounding a waterfall that leads into a tranquil koi pond at the Japanese Garden in Portland, OR.",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-    "note": "Look at the fullness of the canopy and the state of the flowers and leaves. Green scenes can be difficult to place precisely within spring and summer.",
-    "options": [
-      "Strolling Pond Garden",
-      "Flat Garden",
-      "Natural Garden",
-      "Tea Garden"
-    ],
-    "dateReady": true,
-    "dateEvidence": "Public Flickr Taken on date and embedded photo-stats-models dateTaken; datePosted is separately recorded and not used as capture date.",
-    "locationEvidence": "visual_landmark_match",
-    "landmark": "Heavenly Falls"
+    "openLicense": true
   },
   {
     "id": "commons_124358413",
     "image": "images/commons_124358413.jpg",
     "month": 11,
     "day": 24,
-    "dateReady": true,
     "location": "Area needs review",
-    "landmark": null,
+    "landmark": "Path to Moon Bridge",
+    "point": {
+      "lat": 45.51836179867863,
+      "lon": -122.7086718805216,
+      "name": "Path to Moon Bridge",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "G. Lamar",
     "source": "https://commons.wikimedia.org/wiki/File:%22Be_Not_Afraid_of_Going_Slowly,_Be_Afraid_of_Standing_Still%22_(46181673152).jpg",
-    "confidence": "exif",
     "caption": "original flickr: \"Be Not Afraid of Going Slowly, Be Afraid of Standing Still\"\nOld Japanese Proverb\n\nPortland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
-  },
-  {
-    "id": "commons_12338119",
-    "image": "images/commons_12338119.jpg",
-    "month": 11,
-    "day": 4,
-    "dateReady": true,
-    "location": "Flat Garden",
-    "landmark": "Pavilion approach",
-    "credit": "Melissa Wilmot",
-    "source": "https://commons.wikimedia.org/wiki/File:Fall_foliage.jpg",
-    "confidence": "exif",
-    "caption": "Fall colors at the Portland Japanese Garden.",
-    "openLicense": true,
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_30715046",
     "image": "images/commons_30715046.jpg",
     "month": 9,
     "day": 22,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
+    "location": "Strolling Pond Garden",
+    "landmark": "Upper Pond",
+    "point": {
+      "lat": 45.51875960399014,
+      "lon": -122.70889637164679,
+      "name": "Upper Pond",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Šarūnas Burdulis from USA",
     "source": "https://commons.wikimedia.org/wiki/File:In_Japanese_garden,_Portland_(4333296058).jpg",
-    "confidence": "exif",
     "caption": "In Japanese garden, Portland",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_92405818",
     "image": "images/commons_92405818.jpg",
     "month": 11,
     "day": 4,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
-    "landmark": "Laceleaf maple",
+    "landmark": "The Tree",
+    "point": {
+      "lat": 45.518776642993274,
+      "lon": -122.70872964827177,
+      "name": "The Tree",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Sasquatch I",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden,_Portland_Oregon_-_Flickr_-_Sasquatch_I.jpg",
-    "confidence": "exif",
     "caption": "Japanese Garden, Portland Oregon",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71348628",
     "image": "images/commons_71348628.jpg",
     "month": 9,
     "day": 6,
-    "dateReady": true,
-    "location": "Strolling Pond Garden",
+    "location": "Flat Garden",
     "landmark": "Laceleaf maple",
+    "point": {
+      "lat": 45.51890550505151,
+      "lon": -122.70766210856831,
+      "name": "Laceleaf maple",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Carola Hornbach",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Maple_(232883841).jpeg",
-    "confidence": "exif",
     "caption": "500px provided description: Japanese Maple, Portland Japanese Garden [#leaves ,#tree ,#green ,#garden ,#japanese ,#bontanical]",
-    "openLicense": true,
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_41790945",
     "image": "images/commons_41790945.jpg",
     "month": 5,
     "day": 14,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Koi in Lower Pond",
+    "point": {
+      "lat": 45.518087964574974,
+      "lon": -122.70897670597857,
+      "name": "Koi in Lower Pond",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Tony Webster from Portland, Oregon",
     "source": "https://commons.wikimedia.org/wiki/File:Koi_Pond_-_Portland_Japanese_Garden_(18206438211).jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.51796,
-      "lon": -122.70888166666667,
-      "basis": "exif_camera_gps",
-      "limit": "Original camera GPS exposed by Commons API; physically plausible but precision and whether GPS was edited are not independently established."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_23044881",
     "image": "images/commons_23044881.jpg",
     "month": 3,
     "day": 9,
-    "dateReady": true,
     "location": "Area needs review",
-    "landmark": null,
+    "landmark": "Ducks!",
+    "point": {
+      "lat": 45.518206308718185,
+      "lon": -122.70897015117151,
+      "name": "Ducks!",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Tony Herrig",
     "source": "https://commons.wikimedia.org/wiki/File:Mallard_Ducks,_Japanese_Gardens,_Portland,_Oregon.JPG",
-    "confidence": "exif",
     "caption": "Two Mallard Anas platyrhynchos resting at the main pool at the Japanese Gardens in Portland, Oregon.",
-    "openLicense": true,
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_41791161",
     "image": "images/commons_41791161.jpg",
     "month": 5,
     "day": 14,
-    "dateReady": true,
     "location": "Flat Garden",
     "landmark": "Circle island",
+    "point": {
+      "lat": 45.518681140291896,
+      "lon": -122.70780641538059,
+      "name": "Circle island",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Tony Webster from Portland, Oregon",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_(17834386035).jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.51865333333333,
-      "lon": -122.70750333333334,
-      "basis": "exif_camera_gps",
-      "limit": "Original camera GPS exposed by Commons API; physically plausible but precision and whether GPS was edited are not independently established."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_46133857",
     "image": "images/commons_46133857.jpg",
     "month": 5,
     "day": 14,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.51800266417021,
+      "lon": -122.70873465196969,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Tony Webster from Washington, DC",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_(23552294535).jpg",
-    "confidence": "exif",
     "caption": "Portland, Oregon",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.518025,
-      "lon": -122.70874666666667,
-      "basis": "exif_camera_gps",
-      "limit": "Original camera GPS exposed by Commons API; physically plausible but precision and whether GPS was edited are not independently established."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_47643776",
     "image": "images/commons_47643776.jpg",
     "month": 5,
     "day": 14,
-    "dateReady": true,
     "location": "Flat Garden",
     "landmark": "Moss border and maples",
+    "point": {
+      "lat": 45.51879808199154,
+      "lon": -122.70802167466452,
+      "name": "Moss border and maples",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Tony Webster from San Francisco, California",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_Oregon_(25732059885).jpg",
-    "confidence": "exif",
     "caption": "Portland, Oregon",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.518881666666665,
-      "lon": -122.70784666666667,
-      "basis": "exif_camera_gps",
-      "limit": "Original camera GPS exposed by Commons API; physically plausible but precision and whether GPS was edited are not independently established."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_58840965",
     "image": "images/commons_58840965.jpg",
     "month": 5,
     "day": 4,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.51800606502724,
+      "lon": -122.70876247254182,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Delicious",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_panoramio.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.51799444444444,
-      "lon": -122.70873888888889,
-      "basis": "exif_camera_gps",
-      "limit": "Original camera GPS exposed by Commons API; physically plausible but precision and whether GPS was edited are not independently established."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_160720809",
     "image": "images/commons_160720809.jpg",
     "month": 5,
     "day": 14,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
+    "location": "Strolling Pond Garden",
+    "landmark": "Maples",
+    "point": {
+      "lat": 45.51837773329177,
+      "lon": -122.70884898653551,
+      "name": "Maples",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Tony Webster",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_Trees_(17285721683).jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Trees",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": 45.518445,
-      "lon": -122.708395,
-      "basis": "exif_camera_gps",
-      "limit": "Original camera GPS exposed by Commons API; physically plausible but precision and whether GPS was edited are not independently established."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_134014614",
     "image": "images/commons_134014614.jpg",
     "month": 7,
     "day": 7,
-    "dateReady": true,
     "location": "Cultural Village",
-    "landmark": "Crumpacker Family Bamboo Allee",
+    "landmark": "Bamboo Allee",
+    "point": {
+      "lat": 45.518916022966536,
+      "lon": -122.70847783706176,
+      "name": "Bamboo Allee",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Steven Baltakatei Sandoval",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_Tanabata_tanzaku.jpg",
-    "confidence": "exif",
     "caption": "A photograph of tanzaku (colored strips of paper with wishes written on them) hanging on bamboo trees growing within the Portland Japanese Garden as part of a Tanabata celebration held on 2023-07-07. Photograph taken on 2022-07-07T11:36:53-07.\nOrig name: PXL_20220707_183653289.jpg",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.51905,
-      "lon": -122.70839722222223,
-      "basis": "exif_camera_gps",
-      "limit": "Original camera GPS exposed by Commons API; physically plausible but precision and whether GPS was edited are not independently established."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_85635414",
     "image": "images/commons_85635414.jpg",
     "month": 4,
     "day": 13,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
-    "landmark": "Sapporo Pagoda Lantern",
-    "credit": "Paul Trafford",
-    "source": "https://commons.wikimedia.org/wiki/File:Portland_scene_(8656097497).jpg",
-    "confidence": "exif",
-    "caption": "Portland, Oregon, in spring.",
-    "openLicense": true,
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the stone pagoda shown.",
+    "landmark": "Sapporo Pagoda",
     "point": {
       "lat": 45.5182907,
       "lon": -122.7085868,
       "name": "Sapporo Pagoda",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/node/9696789132",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
+    "credit": "Paul Trafford",
+    "source": "https://commons.wikimedia.org/wiki/File:Portland_scene_(8656097497).jpg",
+    "caption": "Portland, Oregon, in spring.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "openLicense": true
   },
   {
     "id": "commons_85635402",
     "image": "images/commons_85635402.jpg",
     "month": 4,
     "day": 13,
-    "dateReady": true,
     "location": "Tea Garden",
-    "landmark": "Stepping stones and rain shelter",
+    "landmark": "Tea Garden",
+    "point": {
+      "lat": 45.51843826396342,
+      "lon": -122.70929521659534,
+      "name": "Tea Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Paul Trafford",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_scene_(8657201546).jpg",
-    "confidence": "exif",
     "caption": "Portland, Oregon, in spring.",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_76194888",
     "image": "images/commons_76194888.jpg",
     "month": 11,
     "day": 26,
-    "dateReady": false,
-    "location": "Area needs review",
-    "landmark": null,
+    "location": "Strolling Pond Garden",
+    "landmark": "Lower Pond Waterfall",
+    "point": {
+      "lat": 45.51816488558531,
+      "lon": -122.70908343491965,
+      "name": "Lower Pond Waterfall",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Jeff Gunn from Atlanta, USA",
     "source": "https://commons.wikimedia.org/wiki/File:Portland,_OR_(8237613273).jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used. EXIF is 2012-11-26 04:20:07 but image shows daylight and UTC offset is absent. Could be preceding local calendar day; do not enable day scoring yet.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": 45.5235,
-      "lon": -122.67616666666666,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_134156444",
     "image": "images/commons_134156444.jpg",
     "month": 7,
     "day": 7,
-    "dateReady": true,
     "location": "Cultural Village",
-    "landmark": "Crumpacker Family Bamboo Allee",
+    "landmark": "Bamboo Allee",
+    "point": {
+      "lat": 45.51892619033928,
+      "lon": -122.70843080222305,
+      "name": "Bamboo Allee",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Steven Baltakatei Sandoval",
     "source": "https://commons.wikimedia.org/wiki/File:Tanabata_tanzaku.jpg",
-    "confidence": "exif",
     "caption": "Tanabata tanzaku hanging on bamboo trees planted in the Crumpacker Family Bamboo Allee located within the Portland Japanese Garden. See this gallery for more photos from this event at this location and time. Photograph taken on 2023-07-07T17:19:06-07.\nOrig name: 20230708T001906+0000_DSC00359.JPG",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Source description explicitly gives photograph taken 2023-07-07T17:19:06-07. Camera EXIF is 2023:07:08 00:19:06 UTC; these denote the same instant. Local Oregon calendar date is July 7.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.51890777777778,
-      "lon": -122.70844694444445,
-      "basis": "exif_camera_gps",
-      "limit": "Original camera GPS exposed by Commons API; physically plausible but precision and whether GPS was edited are not independently established."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
-  },
-  {
-    "id": "commons_124358415",
-    "image": "images/commons_124358415.jpg",
-    "month": 11,
-    "day": 24,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
-    "credit": "G. Lamar",
-    "source": "https://commons.wikimedia.org/wiki/File:That_Autumn_Glow_(32349354548).jpg",
-    "confidence": "exif",
-    "caption": "Portland Japanese Garden\n\nWow, what a foggy day at the Japenese Garden in Portland.  The fog did make for some eerie looking images and some very cool images.",
-    "openLicense": true,
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_163154710",
     "image": "images/commons_163154710.jpg",
     "month": 11,
     "day": 6,
-    "dateReady": true,
     "location": "Entry Garden",
     "landmark": "Antique Gate",
+    "point": {
+      "lat": 45.519409120681495,
+      "lon": -122.70767354212282,
+      "name": "Antique Gate",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "WLernerPJG",
     "source": "https://commons.wikimedia.org/wiki/File:The_Entry_Garden_at_Portland_Japanese_Garden.jpg",
-    "confidence": "exif",
     "caption": "The Entry Garden at Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_124358407",
     "image": "images/commons_124358407.jpg",
     "month": 11,
     "day": 24,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Upper Pond",
+    "point": {
+      "lat": 45.5187703322717,
+      "lon": -122.70870838250669,
+      "name": "Upper Pond",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "G. Lamar",
     "source": "https://commons.wikimedia.org/wiki/File:The_Lagoon_(45514327354).jpg",
-    "confidence": "exif",
     "caption": "Japanese Gardens Portand Oregon",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_124358402",
     "image": "images/commons_124358402.jpg",
     "month": 11,
     "day": 24,
-    "dateReady": true,
     "location": "Flat Garden",
-    "landmark": "Circle and gourd islands",
+    "landmark": "Flat Garden",
+    "point": {
+      "lat": 45.51879476882155,
+      "lon": -122.70785272460574,
+      "name": "Flat Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "G. Lamar",
     "source": "https://commons.wikimedia.org/wiki/File:The_Zen_Garden_(45514613074).jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_16740263",
     "image": "images/commons_16740263.jpg",
     "month": 7,
     "day": 10,
-    "dateReady": true,
     "location": "Flat Garden",
-    "landmark": "City viewpoint near Pavilion",
+    "landmark": "Mt. Hood Overlook",
+    "point": {
+      "lat": 45.518741022299096,
+      "lon": -122.707499638503,
+      "name": "Mt. Hood Overlook",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Visitor7",
     "source": "https://commons.wikimedia.org/wiki/File:View_from_the_Japanese_Garden_(Portland,_Oregon).jpg",
-    "confidence": "exif",
     "caption": "View from the Japanese Garden (Portland, Oregon)",
-    "openLicense": true,
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71795466",
     "image": "images/commons_71795466.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Cultural Village",
     "landmark": "Bonsai Terrace",
+    "point": {
+      "lat": 45.518893093906286,
+      "lon": -122.70862949920617,
+      "name": "Bonsai Terrace",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Bonsai_collection_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08157.jpg",
-    "confidence": "exif",
     "caption": "Bonsai collection - Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796409",
     "image": "images/commons_71796409.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Flat Garden",
     "landmark": "Flat Garden - Portland Japanese Garden - Portland, Oregon - DSC08354.jpg",
+    "point": {
+      "lat": 45.51867826541982,
+      "lon": -122.70780291285081,
+      "name": "Flat Garden - Portland Japanese Garden - Portland, Oregon - DSC08354.jpg",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Flat_Garden_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08354.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_163154205",
     "image": "images/commons_163154205.jpg",
     "month": 10,
     "day": 29,
-    "dateReady": true,
     "location": "Flat Garden",
     "landmark": "Flat Garden in Portland Japanese Garden.jpg",
+    "point": {
+      "lat": 45.51856111321642,
+      "lon": -122.70777586773532,
+      "name": "Flat Garden in Portland Japanese Garden.jpg",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "WLernerPJG",
     "source": "https://commons.wikimedia.org/wiki/File:Flat_Garden_in_Portland_Japanese_Garden.jpg",
-    "confidence": "exif",
     "caption": "The Flat Garden of Portland Japanese Garden.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
-  },
-  {
-    "id": "commons_30715045",
-    "image": "images/commons_30715045.jpg",
-    "month": 9,
-    "day": 22,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
-    "credit": "Šarūnas Burdulis from USA",
-    "source": "https://commons.wikimedia.org/wiki/File:In_Japanese_garden,_Portland_(4332555361).jpg",
-    "confidence": "exif",
-    "caption": "In Japanese garden, Portland",
-    "openLicense": true,
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
-  },
-  {
-    "id": "commons_30715055",
-    "image": "images/commons_30715055.jpg",
-    "month": 9,
-    "day": 22,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
-    "credit": "Šarūnas Burdulis from USA",
-    "source": "https://commons.wikimedia.org/wiki/File:In_Japanese_garden,_Portland_(4333295416).jpg",
-    "confidence": "exif",
-    "caption": "In Japanese garden, Portland",
-    "openLicense": true,
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
-  },
-  {
-    "id": "commons_30715050",
-    "image": "images/commons_30715050.jpg",
-    "month": 9,
-    "day": 22,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
-    "credit": "Šarūnas Burdulis from USA",
-    "source": "https://commons.wikimedia.org/wiki/File:In_Japanese_garden,_Portland_(4333295582).jpg",
-    "confidence": "exif",
-    "caption": "In Japanese garden, Portland",
-    "openLicense": true,
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796295",
     "image": "images/commons_71796295.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.51800727453189,
+      "lon": -122.70878691563256,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Heavenly_Falls_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08312.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796294",
     "image": "images/commons_71796294.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.51800028015339,
+      "lon": -122.70895656613854,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Heavenly_Falls_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08320.jpg",
-    "confidence": "exif",
     "caption": "Heavenly Falls, Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796066",
     "image": "images/commons_71796066.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Upper Pond",
+    "point": {
+      "lat": 45.51836271012972,
+      "lon": -122.70883990481107,
+      "name": "Upper Pond",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Pond_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08269.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_40651615",
     "image": "images/commons_40651615.jpg",
     "month": 9,
     "day": 10,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.518050205222984,
+      "lon": -122.70883485107423,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Jon Roberts from Austin TX, USA",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_(2013-09-10_14.30.58_by_Jon_Roberts).jpg",
-    "confidence": "exif",
     "caption": "Japanese garden",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.51741555555555,
-      "lon": -122.70883944444445,
-      "basis": "exif_camera_gps",
-      "limit": "Original camera GPS exposed by Commons API; physically plausible but precision and whether GPS was edited are not independently established."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_64289788",
     "image": "images/commons_64289788.jpg",
     "month": 10,
     "day": 10,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.51799849210646,
+      "lon": -122.70875571757902,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "John Fowler from Placitas, NM, USA",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_(37690912536).jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_118421018",
     "image": "images/commons_118421018.jpg",
     "month": 10,
     "day": 29,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.51799298772132,
+      "lon": -122.70874956298555,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "King of Hearts",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_005.jpg",
-    "confidence": "exif",
     "caption": "Heavenly Falls, Portland Japanese Garden, Portland, Oregon.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.517998,
-      "lon": -122.708842,
-      "basis": "commons_camera_location_assertion_not_embedded_exif",
-      "limit": "Specific source camera location. Public-source accuracy is unverified; retain separate user-reviewed flag."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_118421025",
     "image": "images/commons_118421025.jpg",
     "month": 10,
     "day": 29,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
+    "location": "Strolling Pond Garden",
+    "landmark": "Lower Pond Falls",
+    "point": {
+      "lat": 45.518142061708325,
+      "lon": -122.70907487865301,
+      "name": "Lower Pond Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "King of Hearts",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_006.jpg",
-    "confidence": "exif",
     "caption": "Pond, Portland Japanese Garden, Portland, Oregon.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": 45.518109,
-      "lon": -122.708984,
-      "basis": "commons_camera_location_assertion_not_embedded_exif",
-      "limit": "Specific source camera location. Public-source accuracy is unverified; retain separate user-reviewed flag."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_118421036",
     "image": "images/commons_118421036.jpg",
     "month": 10,
     "day": 29,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
+    "location": "Natural Garden",
+    "landmark": "Natural Garden",
+    "point": {
+      "lat": 45.51807408093263,
+      "lon": -122.70737014262869,
+      "name": "Natural Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "King of Hearts",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_009.jpg",
-    "confidence": "exif",
     "caption": "Pond, Portland Japanese Garden, Portland, Oregon.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": 45.518069,
-      "lon": -122.707272,
-      "basis": "commons_camera_location_assertion_not_embedded_exif",
-      "limit": "Specific source camera location. Public-source accuracy is unverified; retain separate user-reviewed flag."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_12338118",
     "image": "images/commons_12338118.jpg",
     "month": 10,
     "day": 22,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Upper Pond and Moon Bridge",
+    "point": {
+      "lat": 45.51876714178122,
+      "lon": -122.7088094573416,
+      "name": "Upper Pond and Moon Bridge",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Melissa Wilmot",
     "source": "https://commons.wikimedia.org/wiki/File:Strolling_Pond_Garden.jpg",
-    "confidence": "exif",
     "caption": "Strolling Pond Garden at the Portland Japanese Garden.",
-    "openLicense": true,
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796063",
     "image": "images/commons_71796063.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
-    "landmark": "Sapporo Pagoda Lantern",
+    "landmark": "Sapporo Pagoda",
+    "point": {
+      "lat": 45.518344952477186,
+      "lon": -122.70860085304052,
+      "name": "Sapporo Pagoda",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Pagoda_lantern_and_stones-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08252.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the stone pagoda shown.",
-    "point": {
-      "lat": 45.5182907,
-      "lon": -122.7085868,
-      "name": "Sapporo Pagoda",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/node/9696789132",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": true
   },
   {
     "id": "commons_71795898",
     "image": "images/commons_71795898.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Sand and Stone Garden",
-    "landmark": "Sand and Stone Garden - Portland Japanese Garden - Portland, Oregon - DSC08222.jpg",
+    "landmark": "Sand and Stone Garden",
+    "point": {
+      "lat": 45.51842790372037,
+      "lon": -122.70760859412785,
+      "name": "Sand and Stone Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Sand_and_Stone_Garden_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08222.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the center of the walled gravel garden.",
-    "point": {
-      "lat": 45.5183782,
-      "lon": -122.70723676,
-      "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": true
   },
   {
     "id": "commons_71796415",
     "image": "images/commons_71796415.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Sand and Stone Garden",
-    "landmark": "Sand and Stone Garden - Portland Japanese Garden - Portland, Oregon - DSC08344.jpg",
-    "credit": "Daderot",
-    "source": "https://commons.wikimedia.org/wiki/File:Sand_and_Stone_Garden_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08344.jpg",
-    "confidence": "exif",
-    "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the center of the walled gravel garden.",
+    "landmark": "Sand and Stone Garden",
     "point": {
       "lat": 45.5183782,
       "lon": -122.70723676,
       "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
+    "credit": "Daderot",
+    "source": "https://commons.wikimedia.org/wiki/File:Sand_and_Stone_Garden_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08344.jpg",
+    "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "openLicense": true
   },
   {
     "id": "commons_71796417",
     "image": "images/commons_71796417.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
-    "landmark": "Zig-Zag Bridge",
+    "landmark": "Zig Zag Bridge",
+    "point": {
+      "lat": 45.518034393289355,
+      "lon": -122.70884633456974,
+      "name": "Zig Zag Bridge",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Zig-zag_Bridge_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08315.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the center of the angular bridge.",
-    "point": {
-      "lat": 45.518015963636365,
-      "lon": -122.70895260909091,
-      "name": "Zig Zag Bridge",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280008",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
-  },
-  {
-    "id": "commons_2497998",
-    "image": "images/commons_2497998.jpg",
-    "month": 6,
-    "day": 6,
-    "dateReady": true,
-    "location": "Sand and Stone Garden",
-    "landmark": "Portland Japanese gardens zen garden 3.jpg",
-    "credit": "Laurascudder",
-    "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_gardens_zen_garden_3.jpg",
-    "confidence": "exif",
-    "caption": "Dry zen garden at Portland Japanese Garden",
-    "openLicense": true,
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the center of the walled gravel garden.",
-    "point": {
-      "lat": 45.5183782,
-      "lon": -122.70723676,
-      "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": true
   },
   {
     "id": "commons_71796061",
     "image": "images/commons_71796061.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Moon Bridge",
+    "point": {
+      "lat": 45.51837533171009,
+      "lon": -122.70886489833012,
+      "name": "Moon Bridge",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Bridge_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08265.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71795127",
     "image": "images/commons_71795127.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Entry Garden",
     "landmark": "Antique Gate",
+    "point": {
+      "lat": 45.519386191621244,
+      "lon": -122.70771704936331,
+      "name": "Antique Gate",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Entry_gate_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08118.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71795126",
     "image": "images/commons_71795126.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Cultural Village",
     "landmark": "Garden House and Fukuta Concierge Office",
+    "point": {
+      "lat": 45.51902724998312,
+      "lon": -122.70881646249909,
+      "name": "Garden House and Fukuta Concierge Office",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Garden_House_%26_Fukuta_Concierge_Office_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08144.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71795568",
     "image": "images/commons_71795568.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Cultural Village",
-    "landmark": "Nezu Gate",
+    "landmark": "Bamboo Allee",
+    "point": {
+      "lat": 45.518916373577426,
+      "lon": -122.7085241462869,
+      "name": "Bamboo Allee",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Inner_gate_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08166.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the entrance gate shown.",
-    "point": {
-      "lat": 45.51887366666667,
-      "lon": -122.70833048333333,
-      "name": "Nezu Gate",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/121189344",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": true
   },
   {
     "id": "commons_71796411",
     "image": "images/commons_71796411.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Natural Garden",
     "landmark": "Moon Gate",
+    "point": {
+      "lat": 45.518138415492295,
+      "lon": -122.70819485267079,
+      "name": "Moon Gate",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Inner_gate_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08332.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796410",
     "image": "images/commons_71796410.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
-    "landmark": "Sapporo Pagoda Lantern",
+    "landmark": "Sapporo Pagoda",
+    "point": {
+      "lat": 45.51832228627219,
+      "lon": -122.70853703077476,
+      "name": "Sapporo Pagoda",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Pagoda_lantern_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08327.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the stone pagoda shown.",
-    "point": {
-      "lat": 45.5182907,
-      "lon": -122.7085868,
-      "name": "Sapporo Pagoda",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/node/9696789132",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": true
   },
   {
     "id": "commons_71795569",
     "image": "images/commons_71795569.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Flat Garden",
-    "landmark": "Pavilion Gallery approach",
+    "landmark": "Pavilion Gallery ",
+    "point": {
+      "lat": 45.518821274044264,
+      "lon": -122.70754209482787,
+      "name": "Pavilion Gallery ",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Pavilion_Gallery_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08195.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796216",
     "image": "images/commons_71796216.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Tea Garden",
-    "landmark": "Rain shelter - Portland Japanese Garden - Portland, Oregon - DSC08300.jpg",
+    "landmark": "Tea Garden Shelter",
+    "point": {
+      "lat": 45.518292187528,
+      "lon": -122.70916221824021,
+      "name": "Tea Garden Shelter",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Rain_shelter_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08300.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796215",
     "image": "images/commons_71796215.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Tea Garden",
-    "landmark": "Tea garden - Portland Japanese Garden - Portland, Oregon - DSC08289.jpg",
+    "landmark": "Tea garden ",
+    "point": {
+      "lat": 45.518535169108354,
+      "lon": -122.7091908393864,
+      "name": "Tea garden ",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Tea_garden_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08289.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796217",
     "image": "images/commons_71796217.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Tea Garden",
-    "landmark": "Tea garden - Portland Japanese Garden - Portland, Oregon - DSC08296.jpg",
+    "landmark": "Tea garden Basin",
+    "point": {
+      "lat": 45.5184465906633,
+      "lon": -122.70926574483619,
+      "name": "Tea garden Basin",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Tea_garden_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08296.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796220",
     "image": "images/commons_71796220.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Tea Garden",
-    "landmark": "Tea garden fence - Portland Japanese Garden - Portland, Oregon - DSC08298.jpg",
+    "landmark": "Tea garden fence ",
+    "point": {
+      "lat": 45.51842892056057,
+      "lon": -122.70930875163833,
+      "name": "Tea garden fence ",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Tea_garden_fence_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08298.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796218",
     "image": "images/commons_71796218.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Tea Garden",
-    "landmark": "Tea garden gate - Portland Japanese Garden - Portland, Oregon - DSC08278.jpg",
+    "landmark": "Teahouse Gate",
+    "point": {
+      "lat": 45.518708276476985,
+      "lon": -122.70899584513776,
+      "name": "Teahouse Gate",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Tea_garden_gate_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08278.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796219",
     "image": "images/commons_71796219.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Tea Garden",
-    "landmark": "Tea garden gate - Portland Japanese Garden - Portland, Oregon - DSC08301.jpg",
+    "landmark": "Tea Garden Gate ",
+    "point": {
+      "lat": 45.518238055264945,
+      "lon": -122.70911080523928,
+      "name": "Tea Garden Gate ",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Tea_garden_gate_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08301.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_71796221",
     "image": "images/commons_71796221.jpg",
     "month": 11,
     "day": 1,
-    "dateReady": true,
     "location": "Tea Garden",
-    "landmark": "Tea garden gate and stone - Portland Japanese Garden - Portland, Oregon - DSC08304.jpg",
+    "landmark": "Tea garden gate and stone ",
+    "point": {
+      "lat": 45.51818679801119,
+      "lon": -122.70904963493928,
+      "name": "Tea garden gate and stone ",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Daderot",
     "source": "https://commons.wikimedia.org/wiki/File:Tea_garden_gate_and_stone_-_Portland_Japanese_Garden_-_Portland,_Oregon_-_DSC08304.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden - Portland, Oregon, USA.",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_165034254",
     "image": "images/commons_165034254.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
-    "landmark": "Portland Japanese Garden - HCP - October 15, 2022 - 002.jpg",
+    "landmark": "Upper Pond",
+    "point": {
+      "lat": 45.518766721048145,
+      "lon": -122.70881786349142,
+      "name": "Upper Pond",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Vulturesong",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_002.jpg",
-    "confidence": "exif",
     "caption": "The Strolling Pond Garden in the Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
-  },
-  {
-    "id": "commons_165034258",
-    "image": "images/commons_165034258.jpg",
-    "month": 10,
-    "day": 15,
-    "dateReady": true,
-    "location": "Strolling Pond Garden",
-    "landmark": "Laceleaf maple",
-    "credit": "Vulturesong",
-    "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_004.jpg",
-    "confidence": "exif",
-    "caption": "The world-famous laceleaf maple tree in the Portland Japanese Garden",
-    "openLicense": true,
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_165034259",
     "image": "images/commons_165034259.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
-    "landmark": "Portland Japanese Garden - HCP - October 15, 2022 - 005.jpg",
+    "landmark": "Upper Pond",
+    "point": {
+      "lat": 45.518774960061,
+      "lon": -122.70881083336342,
+      "name": "Upper Pond",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Vulturesong",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_005.jpg",
-    "confidence": "exif",
     "caption": "The Strolling Pond Garden in the Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_165034266",
     "image": "images/commons_165034266.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
-    "landmark": "Sapporo Pagoda Lantern",
+    "landmark": "Sapporo Pagoda",
+    "point": {
+      "lat": 45.51834440906461,
+      "lon": -122.70857483377222,
+      "name": "Sapporo Pagoda",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Vulturesong",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_012.jpg",
-    "confidence": "exif",
     "caption": "The Sapporo Pagoda Lantern in the Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the stone pagoda shown.",
-    "point": {
-      "lat": 45.5182907,
-      "lon": -122.7085868,
-      "name": "Sapporo Pagoda",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/node/9696789132",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+    "openLicense": true
   },
   {
     "id": "commons_165034277",
     "image": "images/commons_165034277.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
     "landmark": "Heavenly Falls",
+    "point": {
+      "lat": 45.518021263426114,
+      "lon": -122.70879337045966,
+      "name": "Heavenly Falls",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Vulturesong",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_019.jpg",
-    "confidence": "exif",
     "caption": "Heavenly Falls in the Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_165034286",
     "image": "images/commons_165034286.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Natural Garden",
     "landmark": "Moon Gate",
+    "point": {
+      "lat": 45.51814262268575,
+      "lon": -122.70819317641534,
+      "name": "Moon Gate",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Vulturesong",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_025.jpg",
-    "confidence": "exif",
     "caption": "Moon Gate in the Portland Japanese Garden, which leads to the Natural Garden",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_165034293",
     "image": "images/commons_165034293.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Natural Garden",
-    "landmark": "Portland Japanese Garden - HCP - October 15, 2022 - 026.jpg",
+    "landmark": "Natural Garden",
+    "point": {
+      "lat": 45.518130229036764,
+      "lon": -122.70788374757197,
+      "name": "Natural Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Vulturesong",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_026.jpg",
-    "confidence": "exif",
     "caption": "The Natural Garden in the Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_165034252",
     "image": "images/commons_165034252.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Sand and Stone Garden",
-    "landmark": "Portland Japanese Garden - HCP - October 15, 2022 - 030.jpg",
-    "credit": "Vulturesong",
-    "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_030.jpg",
-    "confidence": "exif",
-    "caption": "The Sand and Stone Garden in the Portland Japanese Garden",
-    "openLicense": true,
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the center of the walled gravel garden.",
+    "landmark": "Sand and Stone Garden",
     "point": {
       "lat": 45.5183782,
       "lon": -122.70723676,
       "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
+    "credit": "Vulturesong",
+    "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_030.jpg",
+    "caption": "The Sand and Stone Garden in the Portland Japanese Garden",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "openLicense": true
   },
   {
     "id": "commons_165034493",
     "image": "images/commons_165034493.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Sand and Stone Garden",
-    "landmark": "Portland Japanese Garden - HCP - October 15, 2022 - 031.jpg",
-    "credit": "Vulturesong",
-    "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_031.jpg",
-    "confidence": "exif",
-    "caption": "The Sand and Stone Garden in the Portland Japanese Garden",
-    "openLicense": true,
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the center of the walled gravel garden.",
+    "landmark": "Sand and Stone Garden",
     "point": {
       "lat": 45.5183782,
       "lon": -122.70723676,
       "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
+    "credit": "Vulturesong",
+    "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_031.jpg",
+    "caption": "The Sand and Stone Garden in the Portland Japanese Garden",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "openLicense": true
   },
   {
     "id": "commons_165034499",
     "image": "images/commons_165034499.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Flat Garden",
-    "landmark": "Portland Japanese Garden - HCP - October 15, 2022 - 036.jpg",
+    "landmark": "Weeping Cherry",
+    "point": {
+      "lat": 45.51851348461385,
+      "lon": -122.70769450755635,
+      "name": "Weeping Cherry",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Vulturesong",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_036.jpg",
-    "confidence": "exif",
     "caption": "The Flat Garden in the Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_165034508",
     "image": "images/commons_165034508.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Flat Garden",
-    "landmark": "Portland Japanese Garden - HCP - October 15, 2022 - 040.jpg",
+    "landmark": "Gourd Island",
+    "point": {
+      "lat": 45.51868547016486,
+      "lon": -122.70780531452397,
+      "name": "Gourd Island",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Vulturesong",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_040.jpg",
-    "confidence": "exif",
     "caption": "The Flat Garden in the Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_165034538",
     "image": "images/commons_165034538.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Flat Garden",
-    "landmark": "Portland Japanese Garden - HCP - October 15, 2022 - 049.jpg",
+    "landmark": "Flat Garden",
+    "point": {
+      "lat": 45.51879026371176,
+      "lon": -122.70802335091997,
+      "name": "Flat Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Vulturesong",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_049.jpg",
-    "confidence": "exif",
     "caption": "The Flat Garden in the Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_165034545",
     "image": "images/commons_165034545.jpg",
     "month": 10,
     "day": 15,
-    "dateReady": true,
     "location": "Flat Garden",
-    "landmark": "Portland Japanese Garden - HCP - October 15, 2022 - 050.jpg",
+    "landmark": "Flat Garden",
+    "point": {
+      "lat": 45.518683138705356,
+      "lon": -122.70814499077899,
+      "name": "Flat Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "Vulturesong",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_-_HCP_-_October_15,_2022_-_050.jpg",
-    "confidence": "exif",
     "caption": "The Flat Garden in the Portland Japanese Garden",
-    "openLicense": true,
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Explicit Commons title, description, or named-area category, supported by contact-sheet inspection.",
-    "cameraEvidence": {
-      "lat": null,
-      "lon": null,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_160697472",
     "image": "images/commons_160697472.jpg",
     "month": 1,
     "day": 27,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
+    "location": "Flat Garden",
+    "landmark": "Poetry Stone",
+    "point": {
+      "lat": 45.51838846157333,
+      "lon": -122.7077052154973,
+      "name": "Poetry Stone",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "stu_spivack",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_(Portland).jpg",
-    "confidence": "exif",
     "caption": "Japanese Garden, Portland",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used. Camera clock near 18:00 while scene shows daylight, compatible with UTC. Same calendar day if converted to Oregon time; no hour-of-day assertion.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": 45.5205,
-      "lon": -122.69800000000001,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_160697487",
     "image": "images/commons_160697487.jpg",
     "month": 1,
     "day": 27,
-    "dateReady": true,
     "location": "Strolling Pond Garden",
-    "landmark": "Stream upstream of Lower Pond",
+    "landmark": "Upstream of Lower Pond",
+    "point": {
+      "lat": 45.51819375725999,
+      "lon": -122.70894137985955,
+      "name": "Upstream of Lower Pond",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "stu_spivack",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-_4320685549.jpg",
-    "confidence": "exif",
     "caption": "Japanese Garden, Portland",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used. Camera clock near 18:00 while scene shows daylight, compatible with UTC. Same calendar day if converted to Oregon time; no hour-of-day assertion.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.525,
-      "lon": -122.6986,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
-  },
-  {
-    "id": "commons_160697471",
-    "image": "images/commons_160697471.jpg",
-    "month": 1,
-    "day": 27,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
-    "credit": "stu_spivack",
-    "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-_4320729745.jpg",
-    "confidence": "exif",
-    "caption": "Japanese Garden, Portland",
-    "openLicense": true,
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used. Camera clock near 18:00 while scene shows daylight, compatible with UTC. Same calendar day if converted to Oregon time; no hour-of-day assertion.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": 45.5205,
-      "lon": -122.69800000000001,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_160697450",
     "image": "images/commons_160697450.jpg",
     "month": 1,
     "day": 27,
-    "dateReady": true,
     "location": "Flat Garden",
-    "landmark": "Gourd island",
+    "landmark": "Flat Garden",
+    "point": {
+      "lat": 45.51877422384675,
+      "lon": -122.70783078346189,
+      "name": "Flat Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "stu_spivack",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-_4320772181.jpg",
-    "confidence": "exif",
     "caption": "Japanese Garden, Portland",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used. Camera clock near 18:00 while scene shows daylight, compatible with UTC. Same calendar day if converted to Oregon time; no hour-of-day assertion.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.5205,
-      "lon": -122.69800000000001,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_160697469",
     "image": "images/commons_160697469.jpg",
     "month": 1,
     "day": 27,
-    "dateReady": true,
     "location": "Sand and Stone Garden",
-    "landmark": "Standing stones",
-    "credit": "stu_spivack",
-    "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-_4321472716.jpg",
-    "confidence": "exif",
-    "caption": "Japanese Garden, Portland",
-    "openLicense": true,
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used. Camera clock near 18:00 while scene shows daylight, compatible with UTC. Same calendar day if converted to Oregon time; no hour-of-day assertion.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.5205,
-      "lon": -122.69800000000001,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true,
-    "pinPrompt": "Pin the center of the walled gravel garden.",
+    "landmark": "Sand and Stone Garden",
     "point": {
       "lat": 45.5183782,
       "lon": -122.70723676,
       "name": "Sand and Stone Garden",
-      "status": "mapped_landmark",
-      "source": "https://www.openstreetmap.org/way/1055280013",
-      "basis": "Named OpenStreetMap feature; pin represents the feature center. Approximate, pending your review."
-    }
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
+    "credit": "stu_spivack",
+    "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-_4321472716.jpg",
+    "caption": "Japanese Garden, Portland",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "openLicense": true
   },
   {
     "id": "commons_160697458",
     "image": "images/commons_160697458.jpg",
     "month": 1,
     "day": 27,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
+    "location": "Natural Garden",
+    "landmark": "Water Basin",
+    "point": {
+      "lat": 45.518093188471404,
+      "lon": -122.7076278082965,
+      "name": "Water Basin",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "stu_spivack",
     "source": "https://commons.wikimedia.org/wiki/File:Japanese_Garden_-_4321498664.jpg",
-    "confidence": "exif",
     "caption": "Japanese Garden, Portland",
-    "openLicense": true,
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used. Camera clock near 18:00 while scene shows daylight, compatible with UTC. Same calendar day if converted to Oregon time; no hour-of-day assertion.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": 45.5205,
-      "lon": -122.69800000000001,
-      "basis": null,
-      "limit": null
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_118420977",
     "image": "images/commons_118420977.jpg",
     "month": 10,
     "day": 29,
-    "dateReady": true,
     "location": "Cultural Village",
     "landmark": "Castle wall",
+    "point": {
+      "lat": 45.519150274610176,
+      "lon": -122.70909169105059,
+      "name": "Castle wall",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "King of Hearts",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_001.jpg",
-    "confidence": "exif",
     "caption": "Zagunis Castle Wall, Portland Japanese Garden, Portland, Oregon.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.519214,
-      "lon": -122.70901,
-      "basis": "commons_camera_location_assertion_not_embedded_exif",
-      "limit": "Specific source camera location. Public-source accuracy is unverified; retain separate user-reviewed flag."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_118420984",
     "image": "images/commons_118420984.jpg",
     "month": 10,
     "day": 29,
-    "dateReady": true,
     "location": "Cultural Village",
-    "landmark": "Garden House",
+    "landmark": "Learning Center",
+    "point": {
+      "lat": 45.51905161654802,
+      "lon": -122.70879269488505,
+      "name": "Learning Center",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "King of Hearts",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_002.jpg",
-    "confidence": "exif",
     "caption": "Jordan Schnitzer Japanese Arts Learning Center, Portland Japanese Garden, Portland, Oregon.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.519004,
-      "lon": -122.708868,
-      "basis": "commons_camera_location_assertion_not_embedded_exif",
-      "limit": "Specific source camera location. Public-source accuracy is unverified; retain separate user-reviewed flag."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_118421028",
     "image": "images/commons_118421028.jpg",
     "month": 10,
     "day": 29,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
+    "location": "Strolling Pond Garden",
+    "landmark": "Moon Bridge",
+    "point": {
+      "lat": 45.518324495052184,
+      "lon": -122.70911488326581,
+      "name": "Moon Bridge",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "King of Hearts",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_007.jpg",
-    "confidence": "exif",
     "caption": "Moon Bridge, Portland Japanese Garden, Portland, Oregon.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": 45.518353,
-      "lon": -122.70899,
-      "basis": "commons_camera_location_assertion_not_embedded_exif",
-      "limit": "Specific source camera location. Public-source accuracy is unverified; retain separate user-reviewed flag."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_118420993",
     "image": "images/commons_118420993.jpg",
     "month": 10,
     "day": 29,
-    "dateReady": true,
     "location": "Flat Garden",
-    "landmark": "Pruned pines and stone",
+    "landmark": "Flat Garden",
+    "point": {
+      "lat": 45.518699301249875,
+      "lon": -122.70781149408795,
+      "name": "Flat Garden",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "King of Hearts",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_003.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden, Portland, Oregon.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.51863,
-      "lon": -122.708156,
-      "basis": "commons_camera_location_assertion_not_embedded_exif",
-      "limit": "Specific source camera location. Public-source accuracy is unverified; retain separate user-reviewed flag."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
-  },
-  {
-    "id": "commons_118421004",
-    "image": "images/commons_118421004.jpg",
-    "month": 10,
-    "day": 29,
-    "dateReady": true,
-    "location": "Flat Garden",
-    "landmark": "Pruned pines and stone",
-    "credit": "King of Hearts",
-    "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_004.jpg",
-    "confidence": "exif",
-    "caption": "Portland Japanese Garden, Portland, Oregon.",
-    "openLicense": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.518525,
-      "lon": -122.708182,
-      "basis": "commons_camera_location_assertion_not_embedded_exif",
-      "limit": "Specific source camera location. Public-source accuracy is unverified; retain separate user-reviewed flag."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_118421032",
     "image": "images/commons_118421032.jpg",
     "month": 10,
     "day": 29,
-    "dateReady": true,
-    "location": "Area needs review",
-    "landmark": null,
+    "location": "Flat Garden",
+    "landmark": "Maple",
+    "point": {
+      "lat": 45.5189028580422,
+      "lon": -122.70809375286537,
+      "name": "Maple",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "King of Hearts",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_008.jpg",
-    "confidence": "exif",
     "caption": "Portland Japanese Garden, Portland, Oregon.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Area not established. Please review the photograph.",
-    "cameraEvidence": {
-      "lat": 45.518875,
-      "lon": -122.708133,
-      "basis": "commons_camera_location_assertion_not_embedded_exif",
-      "limit": "Specific source camera location. Public-source accuracy is unverified; retain separate user-reviewed flag."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   },
   {
     "id": "commons_118421039",
     "image": "images/commons_118421039.jpg",
     "month": 10,
     "day": 29,
-    "dateReady": true,
     "location": "Flat Garden",
-    "landmark": "City viewpoint near Pavilion",
+    "landmark": "Mt Hood Overlook",
+    "point": {
+      "lat": 45.51878170908049,
+      "lon": -122.70749098206056,
+      "name": "Mt Hood Overlook",
+      "status": "reviewed",
+      "basis": "Landmark confirmed in your saved review."
+    },
     "credit": "King of Hearts",
     "source": "https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_October_2019_010.jpg",
-    "confidence": "exif",
     "caption": "Mount Hood Overlook, Portland Japanese Garden, Portland, Oregon.",
-    "openLicense": true,
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "dateEvidence": "Camera EXIF DateTimeOriginal exposed by Wikimedia Commons API; source-page date stored separately. Upload date not used.",
-    "locationEvidence": "Visual landmark identification in downloaded image; garden-area identity is an interpretation, not GPS evidence.",
-    "cameraEvidence": {
-      "lat": 45.518763,
-      "lon": -122.707449,
-      "basis": "commons_camera_location_assertion_not_embedded_exif",
-      "limit": "Specific source camera location. Public-source accuracy is unverified; retain separate user-reviewed flag."
-    },
-    "note": "Compare the leaves, flowers and light with the other photographs. The exact date is a source record; the visible season can support a range of reasonable guesses.",
-    "expandedCatalog": true
+    "openLicense": true
   }
 ];

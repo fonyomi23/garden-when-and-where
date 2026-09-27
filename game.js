@@ -3,8 +3,9 @@
   const $ = id => document.getElementById(id);
   const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
   const lengths = [31,28,31,30,31,30,31,31,30,31,30,31];
-  let all = (window.GARDEN_PHOTOS || []).map(GardenReview.resolve);
-  let photos = all.filter(p => p.dateReady && !p.excluded && p.point);
+  const photos = window.GARDEN_PHOTOS || [];
+  const validDate=(m,d)=>Number.isInteger(m)&&Number.isInteger(d)&&m>=1&&m<=12&&d>=1&&d<=lengths[m-1];
+  const validPoint=p=>{const b=window.GARDEN_MAP_DATA.bounds;return p&&Number.isFinite(p.lat)&&Number.isFinite(p.lon)&&p.lat>=b.south&&p.lat<=b.north&&p.lon>=b.west&&p.lon<=b.east;};
   let index = 0, step = 0, guess = 166, selectedPin = null, lastResult = null;
   const guessMap=GardenMap.create($('guessMap'),{onChange:point=>{selectedPin=point;$('reveal').disabled=false;$('mapHint').textContent='Pin placed. Move it until you’re happy, then reveal.';}});
   const answerMap=GardenMap.create($('resultMap'),{readonly:true,label:'Your guess and the reference landmark on the Garden map.'});
@@ -30,12 +31,12 @@
   }
   function showStep(n){step=n;['whenPanel','wherePanel','resultPanel'].forEach((id,i)=>$(id).hidden=i!==n);[1,2,3].forEach((v,i)=>{$('step'+v).className=i===n?'active':i<n?'done':'';});}
   function setPhoto(){
-    if(!photos.length){$('imageFailure').hidden=false;$('imageFailure').textContent='No photos match this collection. Change the collection or review more photos.';$('lockWhen').disabled=true;$('counter').textContent='0 matching photographs';showStep(0);return;}
-    const p=current();selectedPin=null;lastResult=null;setGuess(166);showStep(0);guessMap?.reset();answerMap?.reset();$('pinPrompt').textContent=p.pinPrompt||'Drop a pin on the main landmark shown.';$('mapHint').textContent=p.point?'Click to place a pin. Zoom for a closer look.':'Practice pin: this photo needs a reviewed landmark before distance can be scored.';
+    if(!photos.length){$('imageFailure').hidden=false;$('imageFailure').textContent='The photographs couldn’t load. Please refresh and try again.';$('lockWhen').disabled=true;$('counter').textContent='Please refresh';showStep(0);return;}
+    const p=current();selectedPin=null;lastResult=null;setGuess(166);showStep(0);guessMap?.reset();answerMap?.reset();$('pinPrompt').textContent=p.pinPrompt||'Drop a pin on the main landmark shown.';$('mapHint').textContent='Tap or click to place a pin. Zoom for a closer look.';
     $('imageFailure').hidden=true;$('imageFailure').textContent='This photograph couldn’t load. Try another photo.';$('photo').src=p.image;$('largePhoto').src=p.image;
     $('photo').alt='Photograph of Portland Japanese Garden. Look at the vegetation, light and garden details to make your guesses.';
-    $('counter').textContent=`Practice edition · ${photos.length} photographs`;$('photoNumber').textContent=`${String(index+1).padStart(2,'0')} / ${String(photos.length).padStart(2,'0')}`;
-    $('imageLabel').textContent=p.confidence==='update'?'DATED UPDATE · EXPERIMENTAL ROUND':'LOOK FOR THE LITTLE CLUES';
+    $('counter').textContent=`Discover ${photos.length} Garden moments`;$('photoNumber').textContent=`${String(index+1).padStart(2,'0')} / ${String(photos.length).padStart(2,'0')}`;
+    $('imageLabel').textContent='LOOK FOR THE LITTLE CLUES';
     $('reveal').disabled=true;
     $('lockWhen').disabled=false;
   }
@@ -45,16 +46,15 @@
     const p=current(),actual=dayOfYear(p.month,p.day),raw=Math.abs(actual-guess),distance=Math.min(raw,365-raw);
     lastResult={daysAway:distance,guessedDate:dateText(guess),actualDate:dateText(actual),location:p.location,distanceMetres:(!skip&&selectedPin&&p.point)?Math.round(GardenMap.distance(selectedPin,p.point)):null,landmark:p.point?.name||p.location,confidence:p.confidence};
     $('resultHeading').textContent=distance===0?'Right on the day.':distance===1?'One day away.':`${distance} days away.`;
-    $('actualDate').textContent=dateText(actual);$('guessLine').textContent=`You guessed ${dateText(guess)}.${distance<=7?' A wonderfully close look.':distance<=21?' You caught the season.':''}`;
+    $('actualDate').textContent=dateText(actual);$('guessLine').textContent=`You guessed ${dateText(guess)}.${distance<=7?' A sharp eye!':distance<=21?' You caught the season.':''}`;
     $('actualPlace').textContent=p.point?.name||p.location;
     const metres=lastResult.distanceMetres;
-    $('placeResult').textContent=skip?'Location skipped.':metres===null?'Landmark needs review — no distance scored.':metres<5?'Within 5 m of the reference.':`About ${Math.round(metres/5)*5} m from the reference.`;
+    $('placeResult').textContent=skip?'Location skipped.':metres===null?'No location guess.':metres<5?'Right there! Within 5 m.':`About ${Math.round(metres/5)*5} m from the landmark.`;
     $('resultMap').hidden=skip||!p.point;$('mapLegend').hidden=skip||!p.point;
     answerMap?.setPin(selectedPin);answerMap?.setTarget(p.point);
-    $('mapEvidence').textContent=p.point?(p.point.status==='reviewed'?'Landmark confirmed in your review.':p.point.basis||'Approximate mapped landmark; not yet reviewed by you.'):'Open the photo review desk to identify this landmark and place a reference pin.';
-    $('revealNote').textContent=p.note||'Notice the state of the leaves and the details around them. Compare those clues with the next photograph.';
-    const confidence=p.confidence==='reviewed'?'Date evidence: confirmed in your photo review.':p.confidence==='update'?'Date evidence: Garden update date; capture day not independently confirmed.':p.confidence==='exif'?'Date evidence: camera capture date recorded in source metadata.':p.confidence==='flickr'?'Date evidence: photographer-supplied Taken on date.':'Date evidence: explicit capture date on the source page.';
-    $('sourceCredit').innerHTML=`<div>Photo: ${escape(p.credit||'Portland Japanese Garden')}</div><a href="${escape(safeURL(p.source))}" target="_blank" rel="noopener">View original source ↗</a>${p.licenseUrl?`<a href="${escape(safeURL(p.licenseUrl))}" target="_blank" rel="noopener">${escape(p.license||'Image license')}</a>`:''}<span class="confidence">${confidence}</span><a href="review.html?photo=${encodeURIComponent(p.id)}">Review this photo</a>`;
+    $('mapEvidence').textContent=skip?'':'Distances are approximate. Close counts.';
+    $('revealNote').textContent='A familiar place, a different season. What gave it away?';
+    $('sourceCredit').innerHTML=`<div>Photo: ${escape(p.credit||'Portland Japanese Garden')}</div><a href="${escape(safeURL(p.source))}" target="_blank" rel="noopener">Photo source ↗</a>${p.licenseUrl?`<a href="${escape(safeURL(p.licenseUrl))}" target="_blank" rel="noopener">${escape(p.license||'Image license')}</a>`:''}`;
     $('imageLabel').textContent=p.location.toUpperCase();$('photo').alt=p.caption||`${p.location} at Portland Japanese Garden`;showStep(2);
     return lastResult;
   }
@@ -67,20 +67,10 @@
   $('lockWhen').addEventListener('click',lockDate);$('reveal').addEventListener('click',()=>reveal());$('skipWhere').addEventListener('click',()=>reveal(true));$('nextPhoto').addEventListener('click',next);$('skipPhoto').addEventListener('click',next);
   $('photo').addEventListener('error',()=>{$('imageFailure').hidden=false;});
   $('enlarge').addEventListener('click',()=>$('photoDialog').showModal());$('closePhoto').addEventListener('click',()=>$('photoDialog').close());
-  $('aboutButton').addEventListener('click',()=>$('aboutDialog').showModal());$('closeAbout').addEventListener('click',()=>$('aboutDialog').close());
-  for(const id of ['aboutDialog','photoDialog'])$(id).addEventListener('click',e=>{if(e.target===$(id)){const r=$(id).getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$(id).close();}});
-  function filterPhotos(){all=(window.GARDEN_PHOTOS||[]).map(GardenReview.resolve);photos=all.filter(p=>p.dateReady&&!p.excluded&&(!$('licensedOnly').checked||p.openLicense)&&($('roundSet').value!=='map'||p.point));index=0;setPhoto();updateStats();}
-  $('licensedOnly').addEventListener('change',filterPhotos);$('roundSet').addEventListener('change',filterPhotos);
-  $('importGameReviews').addEventListener('change',async e=>{const f=e.target.files[0];if(!f)return;try{if(f.size>2000000)throw Error('Review file is too large.');const count=GardenReview.import(JSON.parse(await f.text()));filterPhotos();$('gameImportStatus').textContent=`Imported ${count} reviews. Your confirmed dates and landmark pins are now used in the game.`;}catch(err){$('gameImportStatus').textContent='Import failed: '+err.message;}e.target.value='';});
-  function updateStats(){
-  const confirmed=all.filter(p=>p.dateReady&&!p.excluded),covered=new Set(confirmed.map(p=>p.month));
-  $('auditStats').innerHTML=`<div><strong>${confirmed.length}</strong>playable photos</div><div><strong>${covered.size}/12</strong>months represented</div><div><strong>${new Set(confirmed.map(p=>p.location)).size}</strong>garden areas</div>`;
-  $('auditText').textContent=`${all.filter(p=>p.openLicense).length} openly licensed photographs and ${all.filter(p=>!p.openLicense).length} official Garden photographs. ${confirmed.filter(p=>p.point).length} playable photos currently have landmark reference pins; more can be added in the review desk. ${all.filter(p=>p.excluded).length} photos are excluded by your reviews. These are sample counts, not the Garden’s entire archive.`;
-  }
-  updateStats();
+  $('photoDialog').addEventListener('click',e=>{if(e.target===$('photoDialog')){const r=$('photoDialog').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('photoDialog').close();}});
   setPhoto();
   if(document.modelContext?.registerTool){const lifecycle=new AbortController();const register=tool=>{try{Promise.resolve(document.modelContext.registerTool(tool,{signal:lifecycle.signal})).catch(()=>{});}catch{}};
-    register({name:'submit_garden_guesses',description:'Submit a month, day and optional landmark pin, then reveal the round.',inputSchema:{type:'object',properties:{month:{type:'integer',minimum:1,maximum:12},day:{type:'integer',minimum:1,maximum:31},latitude:{type:'number'},longitude:{type:'number'}},required:['month','day'],additionalProperties:false},annotations:{readOnlyHint:false},execute(input){if(step!==0)throw Error('Start a new photograph first.');if(!input||!GardenReview.validDate(input.month,input.day))throw Error('Use a valid month and day.');const hasPin=input.latitude!==undefined||input.longitude!==undefined;const pin={lat:input.latitude,lon:input.longitude};if(hasPin&&!GardenReview.validPoint(pin))throw Error('Use a coordinate pair within the Garden map.');setGuess(dayOfYear(input.month,input.day));lockDate();if(hasPin){selectedPin=pin;guessMap.setPin(pin);}return reveal(!hasPin);}});
+    register({name:'submit_garden_guesses',description:'Submit a month, day and optional landmark pin, then reveal the round.',inputSchema:{type:'object',properties:{month:{type:'integer',minimum:1,maximum:12},day:{type:'integer',minimum:1,maximum:31},latitude:{type:'number'},longitude:{type:'number'}},required:['month','day'],additionalProperties:false},annotations:{readOnlyHint:false},execute(input){if(step!==0)throw Error('Start a new photograph first.');if(!input||!validDate(input.month,input.day))throw Error('Use a valid month and day.');const hasPin=input.latitude!==undefined||input.longitude!==undefined;const pin={lat:input.latitude,lon:input.longitude};if(hasPin&&!validPoint(pin))throw Error('Use a coordinate pair within the Garden map.');setGuess(dayOfYear(input.month,input.day));lockDate();if(hasPin){selectedPin=pin;guessMap.setPin(pin);}return reveal(!hasPin);}});
     register({name:'next_garden_photograph',description:'Start the next practice photograph, clearing the current guesses.',inputSchema:{type:'object',properties:{},additionalProperties:false},annotations:{readOnlyHint:false},execute(){next();return {photoNumber:index+1,photoCount:photos.length,hasMapReference:!!current()?.point};}});
     window.addEventListener('pagehide',()=>lifecycle.abort(),{once:true});
   }
