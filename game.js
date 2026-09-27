@@ -53,7 +53,7 @@
     $('resultMap').hidden=skip||!p.point;$('mapLegend').hidden=skip||!p.point;
     answerMap?.setPin(selectedPin);answerMap?.setTarget(p.point);
     $('mapEvidence').textContent=skip?'':'Distances are approximate. Close counts.';
-    $('revealNote').textContent='A familiar place, a different season. What gave it away?';
+    $('revealNote').textContent=window.GardenFarewell?.messageForRound(index)||'A familiar place, a different season. What gave it away?';
     $('sourceCredit').innerHTML=`<div>Photo: ${escape(p.credit||'Portland Japanese Garden')}</div><a href="${escape(safeURL(p.source))}" target="_blank" rel="noopener">Photo source ↗</a>${p.licenseUrl?`<a href="${escape(safeURL(p.licenseUrl))}" target="_blank" rel="noopener">${escape(p.license||'Image license')}</a>`:''}`;
     $('imageLabel').textContent=p.location.toUpperCase();$('photo').alt=p.caption||`${p.location} at Portland Japanese Garden`;showStep(2);
     return lastResult;
