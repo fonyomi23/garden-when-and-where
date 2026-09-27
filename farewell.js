@@ -59,7 +59,7 @@
   ]) {
     const opener = document.getElementById(openId);
     const dialog = document.getElementById(dialogId);
-    opener.addEventListener('click', () => dialog.showModal());
+    opener.addEventListener('click', () => {dialog.showModal(); dialog.scrollTop = 0;});
     document.getElementById(closeId).addEventListener('click', () => dialog.close());
     dialog.addEventListener('close', () => opener.focus({preventScroll: true}));
     dialog.addEventListener('click', event => {

@@ -22,7 +22,7 @@ Then run `node scripts/verify-public.cjs` and test the game before publishing.
 
 Photographer credits and available license links appear in the game. Original source records are in `sources.json`, the approved public answers in `data.js`. The source archive includes both photos with declared open licenses and official Garden photos without an established open license. Inclusion in this repository does not grant additional reuse rights. Follow each photograph's source and license terms.
 
-Map data: © OpenStreetMap contributors, available under ODbL: https://www.openstreetmap.org/copyright. Landmark coordinates and distance results are approximate, not surveyed measurements.
+Map data: © OpenStreetMap contributors, available under ODbL: https://www.openstreetmap.org/copyright. Landmark coordinates and distance results are approximate, not surveyed measurements. `map-adjustments.js` applies approximate path corrections from the creator’s annotated map; the original OpenStreetMap geometry is preserved in `map-data.js` and `map-source.geojson`. These changes do not move the approved answer pins.
 
 ## GitHub Pages
 

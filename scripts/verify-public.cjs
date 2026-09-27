@@ -1,6 +1,6 @@
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),assert=require('node:assert/strict');
 const root=path.resolve(__dirname,'..'),context={window:{}};vm.createContext(context);
-for(const file of ['data.js','map-data.js'])vm.runInContext(fs.readFileSync(path.join(root,file),'utf8'),context);
+for(const file of ['data.js','map-data.js','map-adjustments.js'])vm.runInContext(fs.readFileSync(path.join(root,file),'utf8'),context);
 const photos=context.window.GARDEN_PHOTOS,b=context.window.GARDEN_MAP_DATA.bounds;
 assert(photos.length>0);assert.equal(new Set(photos.map(p=>p.id)).size,photos.length);
 for(const p of photos){assert(fs.existsSync(path.join(root,p.image)));assert(Number.isInteger(p.month)&&p.month>=1&&p.month<=12);assert(p.day>=1&&p.day<=[31,28,31,30,31,30,31,31,30,31,30,31][p.month-1]);assert.equal(p.point.status,'reviewed');assert(p.point.lat>=b.south&&p.point.lat<=b.north&&p.point.lon>=b.west&&p.point.lon<=b.east);assert(p.point.name&&p.source);assert(p.credit||new URL(p.source).hostname==='japanesegarden.org');}
